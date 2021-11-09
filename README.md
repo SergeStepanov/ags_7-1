@@ -1,1 +1,1 @@
-# ags_7-1
+# ags_7-1 [![Build status](https://ci.appveyor.com/api/projects/status/4ggi2y6dijwvsqhk?svg=true)](https://ci.appveyor.com/project/SergeStepanov/ags-7-1)
